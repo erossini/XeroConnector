@@ -34,6 +34,10 @@ ExternalAccountingSettings _settings = new ExternalAccountingSettings();
 XeroClient xeroClient = new XeroClient(_settings, _log);
 ```
 
+## Nuget
+
+You find a [NuGet](https://www.nuget.org/packages/PSC.Accounting.XeroConnector) package for your solution. 
+
 ## See also
 - [Integrate Xero with C# applications](https://www.puresourcecode.com/dotnet/csharp/integrate-xero-with-csharp-applications/)
 - [Getting invoices list with Xero in C#](https://www.puresourcecode.com/dotnet/net-core/getting-invoice-list-from-xero-in-csharp)
