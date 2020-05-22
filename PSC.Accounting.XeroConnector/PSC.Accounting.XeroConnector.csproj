@@ -10,6 +10,8 @@
     <RepositoryUrl>https://github.com/erossini/XeroConnector</RepositoryUrl>
     <PackageTags>xero, accounting, integration, dotnet,</PackageTags>
     <PackageLicenseFile>licence.txt</PackageLicenseFile>
+    <Description>Simple client connector to Xero API with OAuth 2. For more information, visit https://github.com/erossini/XeroConnector or https://www.puresourcecode.com/dotnet/csharp/integrate-xero-with-csharp-applications/</Description>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
