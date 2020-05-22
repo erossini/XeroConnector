@@ -1,4 +1,4 @@
-# XeroConnector
+# Simple Xero Connector
 Simple library for integrate a .NET Core application to Xero.
 
 The Xero documentation is not really clear and the examples are quite old. With the recent introduction of `OAuth` 2.0, it is a bit difficult and complicated to integrate your .NET application with Xero.
